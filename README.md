@@ -1,70 +1,41 @@
-<div align="right" >
-  
-  <p>
-  ꜥꜤ  大学挑战 ❛.⌇ <br>____________________
-  </p>
-  
+<div align="right">
+  其他语言 : <a href="https://github.com/LlynS2/Can_I_Help_you/tree/Português" target="_blank">Português <img src="https://github.com/user-attachments/assets/fa0289cd-3feb-4b62-a6b5-19d80a95a50c" width="15"></a> | <a href="https://github.com/LlynS2/Can_I_Help_you" target="_blank">English <img src="https://github.com/user-attachments/assets/8e065c04-101a-4fd8-814c-b8e6778fca1a" width="15"></a> | <a href="https://github.com/LlynS2/Can_I_Help_you/tree/Español" target="_blank">Español <img src="https://github.com/user-attachments/assets/0a4eb85c-cd21-43fc-bd98-7c1042f7b08e" width="17"></a> | <a href="https://github.com/LlynS2/Can_I_Help_you/tree/한국어" target="_blank">한국어 <img src="https://github.com/user-attachments/assets/5f6886c4-4a79-49b7-b33c-053e1b7ba8c4" width="17"></a>
+</div><br>
+<div align="left" >
+ <img height="40px" src="https://github.com/user-attachments/assets/b69a53cc-3780-49a0-bd28-fd458bc9493f">
+ <p>________________________________________________________________</p><br>
 </div> 
-
 <div align="center" >
-
-  <img height="300px" src="https://user-images.githubusercontent.com/86667062/209584769-4c9c8e60-925b-437f-a8a4-43c7660569b4.png"><br><br>
-  
-  <p align="left">
-    ╭────────────────<br>
-    ╰─ ¡  𝓒𝓱𝓪𝓵𝓵𝓮𝓷𝓰𝓮 𝓢𝓽𝓮𝓵𝓵𝓪𝓷𝓽𝓲𝓼 ! ⨾࿐ྂ
-  </p>
-  
+  <img height="250px" src="https://user-images.githubusercontent.com/86667062/209584769-4c9c8e60-925b-437f-a8a4-43c7660569b4.png"><br><br>
   <p align="right">
-    ˚✧┊ ℂ𝕙𝕒𝕝𝕝𝕖𝕟𝕘𝕖 ·˚ ༘ ˎˊ˗<br>
+    ˚✧┊ 挑战 ·˚ ༘ ˎˊ˗<br>
     <p align="center">
-  
-  <p>
-    𝙲𝚊𝚗 𝙸 𝚑𝚎𝚕𝚙 𝚢𝚘𝚞? 𝚠𝚊𝚜 𝚊 𝚙𝚛𝚘𝚝𝚘𝚝𝚢𝚙𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚂𝚝𝚎𝚕𝚕𝚊𝚗𝚝𝚒𝚜 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎, 𝚠𝚑𝚒𝚌𝚑 𝚐𝚊𝚟𝚎 𝚞𝚜 𝚝𝚑𝚎 𝚏𝚛𝚎𝚎𝚍𝚘𝚖 𝚝𝚘 𝚊𝚙𝚙𝚕𝚢 𝚝𝚑𝚎 𝚂𝚖𝚊𝚛𝚝𝙲𝚒𝚝𝚢 𝚌𝚘𝚗𝚌𝚎𝚙𝚝.𝚃𝚑𝚎 𝚒𝚍𝚎𝚊 𝚠𝚊𝚜 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚝𝚘 
-    𝚑𝚎𝚕𝚙 𝚙𝚎𝚘𝚙𝚕𝚎 𝚠𝚒𝚝𝚑 𝚍𝚒𝚜𝚊𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜 𝚊𝚗𝚍 𝚛𝚊𝚒𝚜𝚎 𝚊𝚠𝚊𝚛𝚎𝚗𝚎𝚜𝚜 𝚊𝚗𝚍 𝚎𝚗𝚌𝚘𝚞𝚛𝚊𝚐𝚎 𝚛𝚎𝚜𝚙𝚎𝚌𝚝 𝚏𝚘𝚛 𝚝𝚑𝚘𝚜𝚎 𝚠𝚑𝚘 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚊𝚠𝚊𝚛𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎𝚜 𝚝𝚑𝚎𝚜𝚎 𝚙𝚎𝚘𝚙𝚕𝚎 𝚏𝚊𝚌𝚎 𝚒𝚗 𝚝𝚑𝚎𝚒𝚛 𝚍𝚊𝚒𝚕𝚢 
-    𝚕𝚒𝚟𝚎𝚜. 𝚃𝚑𝚊𝚝'𝚜 𝚠𝚑𝚢 𝚝𝚑𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚑𝚎𝚕𝚙𝚜 𝚋𝚘𝚝𝚑 𝚞𝚜𝚎𝚛𝚜 𝚠𝚒𝚝𝚑 𝚍𝚒𝚜𝚊𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜 𝚊𝚗𝚍 𝚝𝚑𝚘𝚜𝚎 𝚠𝚑𝚘 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚟𝚘𝚕𝚞𝚗𝚝𝚎𝚎𝚛 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚝𝚑𝚎𝚜𝚎 𝚙𝚎𝚘𝚙𝚕𝚎 𝚠𝚒𝚝𝚑 𝚠𝚑𝚊𝚝𝚎𝚟𝚎𝚛 𝚝𝚑𝚎𝚢 𝚗𝚎𝚎𝚍.
+      Can I Help you ？是为Stellantis挑战开发的原型，这给了我们自由应用智慧城市的概念。这个想法是为了帮助残障人士，提高人们对这些人在日常生活中所面临的挑战的认识，并鼓励尊重。因此，该应用程序不仅帮助残障用户，还帮助那些愿意志愿为这些人提供帮助的人。
   <p align="left">
-      ꒰‧⁺ ✎ 𝙰 𝚟𝚎𝚛𝚢 𝚞𝚜𝚎𝚏𝚞𝚕 𝚝𝚘𝚘𝚕 𝚝𝚑𝚊𝚝 𝚒𝚜 𝚙𝚛𝚎𝚜𝚎𝚗𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚒𝚜 𝚝𝚑𝚎 𝚂𝙾𝚂 𝚋𝚞𝚝𝚝𝚘𝚗, 𝚠𝚑𝚒𝚌𝚑 𝚝𝚑𝚎 𝚞𝚜𝚎𝚛 𝚌𝚊𝚗 𝚌𝚊𝚕𝚕 𝚝𝚑𝚎 𝚊𝚞𝚝𝚑𝚘𝚛𝚒𝚝𝚒𝚎𝚜 𝚒𝚗 𝚊𝚗 𝚎𝚖𝚎𝚛𝚐𝚎𝚗𝚌𝚢 𝚜𝚒𝚝𝚞𝚊𝚝𝚒𝚘𝚗 - 𝚏𝚘𝚛 
-      𝚎𝚡𝚊𝚖𝚙𝚕𝚎.
+      ꒰‧⁺ ✎ 应用程序中的一个非常有用的工具是SOS按钮，用户可以在紧急情况下呼叫相关部门 - 例如。
   </p>
-  </p>
-  
+</p>
+
 </div><br>
 
 <div>
-  
   <p align="center">
-    ↳ 🅐🅟🅟 🅕🅤🅝🅒🅣🅘🅞🅝🅢 ¡๑°⸙͎ ˎ´-<br>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
+    ↳ APP 功能 ¡๑°⸙͎ ˎ´-<br>︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
   </p>
-  
   <table>
-     <tr> 
-          <td align="right" >- ̗̀⁽ ℝ𝕖𝕔𝕦𝕣𝕣𝕚𝕟𝕘 𝕌𝕤𝕖𝕣 !❜</td>
-     </tr>
-     <tr>
-       <td><video src="https://user-images.githubusercontent.com/86667062/209584839-b69afd1e-1dd8-452c-bb27-93e9bc7bc67d.mp4"></td>
-     </tr>
+     <tr><td align="right" >- ̗̀⁽ 经常使用的用户 !❜</td></tr>
+     <tr><td><video src="https://user-images.githubusercontent.com/86667062/209584839-b69afd1e-1dd8-452c-bb27-93e9bc7bc67d.mp4"></td></tr>
   </table>  
   <table>
-     <tr> 
-          <td align="left" >- ̗̀⁽ 𝕍𝕠𝕝𝕦𝕟𝕥𝕖𝕣𝕪 𝕌𝕤𝕖𝕣 !❜</td>
-     </tr>
-     <tr>
-       <td><video src="https://user-images.githubusercontent.com/86667062/209584851-d6fe5a04-8646-4f64-b421-7fa4fc08ceb4.mp4"></td>
-     </tr>
+     <tr><td align="left" >- ̗̀⁽ 志愿者用户 !❜</td></tr>
+     <tr><td><video src="https://user-images.githubusercontent.com/86667062/209584851-d6fe5a04-8646-4f64-b421-7fa4fc08ceb4.mp4"></td></tr>
   </table>  
-  
 </div><br>
-
  <p>
-     ੈ  ғɪɢᴍᴀ ᴏғ ᴛʜᴇ ʟɪɴᴋ - ᴛᴇsᴛ ʏᴏᴜʀsᴇʟғ ᴛᴏᴏ! ꒱ .* ❞ : <br>
+     ੈ  Figma 链接 - 也来试试吧！ ꒱ .* ❞ : <br>
      https://www.figma.com/proto/13gNim0agDJ6SHL2rBDe91/Can-I-help-you-%3F?node-id=5%3A18&starting-point-node-id=5%3A18
   </p>
 
-<div>
-
-   <p>
-     ____________________<br> - ̗̀⁽ 再见 !❜
-   </p>
-  
+<div align="right">
+   <p>________________________________________________________________</p><br>
 </div>
