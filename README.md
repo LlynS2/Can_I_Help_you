@@ -2,7 +2,7 @@
   其他语言 : <a href="https://github.com/LlynS2/Can_I_Help_you/tree/Português" target="_blank">Português <img src="https://github.com/user-attachments/assets/fa0289cd-3feb-4b62-a6b5-19d80a95a50c" width="15"></a> | <a href="https://github.com/LlynS2/Can_I_Help_you" target="_blank">English <img src="https://github.com/user-attachments/assets/8e065c04-101a-4fd8-814c-b8e6778fca1a" width="15"></a> | <a href="https://github.com/LlynS2/Can_I_Help_you/tree/Español" target="_blank">Español <img src="https://github.com/user-attachments/assets/0a4eb85c-cd21-43fc-bd98-7c1042f7b08e" width="17"></a> | <a href="https://github.com/LlynS2/Can_I_Help_you/tree/한국어" target="_blank">한국어 <img src="https://github.com/user-attachments/assets/5f6886c4-4a79-49b7-b33c-053e1b7ba8c4" width="17"></a>
 </div><br>
 <div align="left" >
- <img height="40px" src="https://github.com/user-attachments/assets/b69a53cc-3780-49a0-bd28-fd458bc9493f">
+ <img height="30px" src="https://github.com/user-attachments/assets/b69a53cc-3780-49a0-bd28-fd458bc9493f">
  <p>________________________________________________________________</p><br>
 </div> 
 <div align="center" >
