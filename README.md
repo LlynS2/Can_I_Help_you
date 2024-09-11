@@ -10,7 +10,7 @@
   <p align="right">
     ˚✧┊ 𝔻𝕖𝕤𝕒𝕗í𝕠 ·˚ ༘ ˎˊ˗<br>
     <p align="center">
-      ¿Puedo ayudarte? fue un prototipo desarrollado para el desafío de Stellantis, que nos dio la libertad de aplicar el concepto de SmartCity. La idea fue creada para ayudar a las personas con discapacidades, sensibilizar y fomentar el respeto hacia aquellos que no son conscientes de los desafíos que estas personas enfrentan en su vida cotidiana. Por eso la aplicación ayuda tanto a los usuarios con discapacidades como a aquellos que quieran ofrecerse como voluntarios para ayudar a estas personas con lo que necesiten.
+      Can I Help you ? fue un prototipo desarrollado para el desafío de Stellantis, que nos dio la libertad de aplicar el concepto de SmartCity. La idea fue creada para ayudar a las personas con discapacidades, sensibilizar y fomentar el respeto hacia aquellos que no son conscientes de los desafíos que estas personas enfrentan en su vida cotidiana. Por eso la aplicación ayuda tanto a los usuarios con discapacidades como a aquellos que quieran ofrecerse como voluntarios para ayudar a estas personas con lo que necesiten.
   <p align="left">
       ꒰‧⁺ ✎ Una herramienta muy útil presente en la aplicación es el botón de SOS, que permite al usuario llamar a las autoridades en una situación de emergencia, por ejemplo.
   </p>
